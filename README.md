@@ -1,5 +1,5 @@
 # Expert System Project
-This project is the application of expert system course at college using ML algorithms.
+This project is the application of expert system course at college using ML algorithms using Spyder and Anaconda.
 
 # Machine Learning Classification Project
 
